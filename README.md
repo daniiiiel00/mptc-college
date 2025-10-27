@@ -105,21 +105,6 @@ http://localhost/mptc-college
 | ----- | -------- | ---------- |
 | Admin | `admin`  | `admin123` |
 
-🧭 Project Structure
-
-mptc-college-portal/
-│
-├
-│   ├── css/
-│   ├── js/
-│   ├── scss/
-│   ├── images/
-│
-├── includes/
-│   ├── index.html
-│   ├── about.html
-│   ├── regstration.html
-│   |    course.html
 
 
 📱 Responsive Design
